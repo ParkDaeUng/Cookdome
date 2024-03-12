@@ -1,3 +1,3 @@
-## 쿡돔 홈페이지 작업
+## 쿡돔 제품소개 홈페이지
 
-[링크 바로가](https://www.cookdome.co.kr/)
+[링크 바로가기](https://www.cookdome.co.kr/)
